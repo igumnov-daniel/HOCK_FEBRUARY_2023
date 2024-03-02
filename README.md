@@ -14,5 +14,6 @@
 Ссылка на контест: <a href="https://contest.yandex.ru/contest/52826/standings">https://contest.yandex.ru/contest/52826/standings</a>.
 <br>
 ## Занятие 2. Условия и цикл for.
+
 Контест на условия: <a href="https://contest.yandex.ru/contest/53156/problems/">https://contest.yandex.ru/contest/53156/problems/</a>.
 Контест на цикл for: <a href="https://contest.yandex.ru/contest/53157/problems/">https://contest.yandex.ru/contest/53157/problems/</a>.

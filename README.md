@@ -19,10 +19,15 @@
 *Контест на условия: <a href="https://contest.yandex.ru/contest/53156/problems/">https://contest.yandex.ru/contest/53156/problems/</a>.<br>
 *Контест на цикл for: <a href="https://contest.yandex.ru/contest/53157/problems/">https://contest.yandex.ru/contest/53157/problems/</a>.
 
-## Занятие 3. Цикл while. Списки.
+## Занятие 3. Цикл while. Списки. Методы строк.
 
 *Контест на while: <a href="https://contest.yandex.ru/contest/53463/problems/">https://contest.yandex.ru/contest/53463/problems/</a>.<br>
 *Задачи на списки: <a href="https://contest.yandex.ru/contest/53792/problems/">https://contest.yandex.ru/contest/53792/problems/</a>.
+
+## Занятие 4. Чтение и запись файлов. Словари. Функции.
+
+*Чтение, запись файлов: <a href="https://contest.yandex.ru/contest/54425/problems/">https://contest.yandex.ru/contest/54425/problems/</a>.<br>
+*Словари: <a href="https://contest.yandex.ru/contest/54480/problems/">https://contest.yandex.ru/contest/54480/problems/</a>.
 
 # Полезные ссылки
 

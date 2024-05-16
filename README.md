@@ -2,7 +2,8 @@
 
 Записи курса находятся на платформе <a href="http://hockmyweb.ru">hockmyweb</a>.
 
-## Занятие 1. Введение в программирование.
+# Основы программирования на python
+## Занятие 1. Введение в программирование
 * как работают программы;
 * высокоуровневые и низкоуровневые языки программирования;
 * интерпретатор и компилятор;
@@ -14,20 +15,63 @@
 Ссылка на контест: <a href="https://contest.yandex.ru/contest/52826/standings">https://contest.yandex.ru/contest/52826/standings</a>.
 <br>
 
-## Занятие 2. Условия и цикл for.
+## Занятие 2. Условия и цикл for
 
-*Контест на условия: <a href="https://contest.yandex.ru/contest/53156/problems/">https://contest.yandex.ru/contest/53156/problems/</a>.<br>
-*Контест на цикл for: <a href="https://contest.yandex.ru/contest/53157/problems/">https://contest.yandex.ru/contest/53157/problems/</a>.
+* Контест на условия: <a href="https://contest.yandex.ru/contest/53156/problems/">https://contest.yandex.ru/contest/53156/problems/</a>.<br>
+* Контест на цикл for: <a href="https://contest.yandex.ru/contest/53157/problems/">https://contest.yandex.ru/contest/53157/problems/</a>.
 
-## Занятие 3. Цикл while. Списки. Методы строк.
+## Занятие 3. Цикл while. Списки. Методы строк
 
-*Контест на while: <a href="https://contest.yandex.ru/contest/53463/problems/">https://contest.yandex.ru/contest/53463/problems/</a>.<br>
-*Задачи на списки: <a href="https://contest.yandex.ru/contest/53792/problems/">https://contest.yandex.ru/contest/53792/problems/</a>.
+* Контест на while: <a href="https://contest.yandex.ru/contest/53463/problems/">https://contest.yandex.ru/contest/53463/problems/</a>.<br>
+* Задачи на списки: <a href="https://contest.yandex.ru/contest/53792/problems/">https://contest.yandex.ru/contest/53792/problems/</a>.
 
-## Занятие 4. Чтение и запись файлов. Словари. Функции.
+## Занятие 4. Чтение и запись файлов. Словари. Функции
 
-*Чтение, запись файлов: <a href="https://contest.yandex.ru/contest/54425/problems/">https://contest.yandex.ru/contest/54425/problems/</a>.<br>
-*Словари: <a href="https://contest.yandex.ru/contest/54480/problems/">https://contest.yandex.ru/contest/54480/problems/</a>.
+* Чтение, запись файлов: <a href="https://contest.yandex.ru/contest/54425/problems/">https://contest.yandex.ru/contest/54425/problems/</a>.<br>
+* Словари: <a href="https://contest.yandex.ru/contest/54480/problems/">https://contest.yandex.ru/contest/54480/problems/</a>.
+
+## Занятие 5. Классы
+
+* Задания для практики в ноутбуке
+
+## Основы анализа данных
+## Занятие 6. Учимся быстро считать и рисовать
+* Библиотека для векторизованных расчетов NumPy;
+* Библиотека matplotlib.pyplot для статичной визуализации.
+## Занятие 7. Базовая теория вероятностей и математическая статистика
+* Понятие дискретной и непрерывной случайной величин;
+* Распределения, связанные с нормальным;
+* Создание и работа с генераторми распределений с помощью `SciPy`;
+* Классическая формулировка ЦПТ, сценарии использования в реальной жизни.
+## Занятие 8. Работа с табличными данными. Доверительные интервали
+* ЦПТ;
+* Понятие стандартной ошибки;
+* Использование ЦПТ для вывода дисперсии выборочного среднего для разных распределений;
+* Доверительный интервал для выборочного среднего, доли, разницы средних;
+* Подсчёт числа наблюдений для построения доверительного интервала определенной длины на определенном уровне значимости;
+* Основы работы с табличными данными с помощью `Pandas`.
+
+## Занятие 9. Работа с таблиуцами
+* Соединение таблиц (`merge`, `join`, `concat`);
+* Широкий и длинный формат таблиц, пивотирование;
+* Группировка (`groupby`);
+* Работа с датой и группировка по дате (`resample`);
+* Статическая визуализация с помощью `Seaborn`;
+
+## Занятие 10. Проверка статистических гипотез
+* Постановка нулевой и альтернативной гипотез;
+* Уровень значимости и _p_-value;
+* z-тест и t-тест для средних (одновыборочный, двувыборочный)
+* Процедура проведения А/Б теста.
+
+## Занятие 11. Классическое машинное обучение. Линейые модели.
+* Постановка задачи линейной регрессии;
+* Способы решения задачи;
+* Базовые классы Scikit-learn: estimatorm, transformer;
+* Решение задачи линейной регрессии через sklearn;
+* Решение задачи линейной регрессии через statsmodels;
+* Разбиение данных на трейн и тест;
+* Метрики для оценки моделей.
 
 # Полезные ссылки
 
